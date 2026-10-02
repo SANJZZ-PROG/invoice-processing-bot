@@ -1,0 +1,5 @@
+.local/
+.tmh/
+.settings/
+.screenshots/
+*.nupkg

@@ -1,0 +1,10 @@
+﻿InvoiceNo,Date,Vendor,Amount,Reason
+INV-1001,12-01-2026,BlueLeaf Traders,"12,500.00",
+INV-1002,14-01-2026,Nova Office Supplies,"8,750.00",
+INV-1003,18-01-2026,Everest Logistics,"23,000.00",
+INV-1004,20-01-2026,Sunrise Consulting,"4,300.00",
+INV-1005,22-01-2026,Falcon Hardware,"15,600.00",
+INV-1006,25-01-2026,GreenPoint Foods,"9,999.00",
+INV-1007,28-01-2026,Orion Printers,"31,200.00",
+INV-1008,30-01-2026,Cascade Textiles,"6,450.00",
+INV-1009,02-02-2026,Amber Stationery,"18,000.00",

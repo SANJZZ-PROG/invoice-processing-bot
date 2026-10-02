@@ -1,0 +1,4 @@
+﻿InvoiceNo,Date,Vendor,Amount,Reason
+,05-02-2026,Pioneer Electricals,"7,200.00",Missing invoice number
+INV-1010,32-13-2026,Maple Freight,"11,000.00",Invalid date
+INV-1001,08-02-2026,Zenith Packaging,"5,000.00",Duplicate invoice number
